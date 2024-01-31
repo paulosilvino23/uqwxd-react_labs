@@ -1,3 +1,10 @@
+########################################################################
+ATTENTION: the following module is required for running this application
+
+npm install --save -s redux react-redux react react-dom react-scripts react-service-worker web-vitals
+
+########################################################################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
